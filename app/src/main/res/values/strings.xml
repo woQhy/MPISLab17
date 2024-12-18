@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab 17. Nikiforov Aleks AS-63</string>
+
+    <string name="audio_item_name">Unknown</string>
+    <string name="audio_item_author">Unknown</string>
+
+    <string name="audio_text">No audio</string>
+    <string name="audio_play_btn">Play ▶</string>
+    <string name="audio_pause_btn">Pause ❚❚</string>
+    <string name="audio_stop_btn">Stop ◼</string>
+    <string name="audio_next_btn">Next ⏭</string>
+    <string name="audio_prev_btn">⏮ Prev</string>
+
+    <string name="photo_btn">take a photo 📸</string>
+
+    <string name="author">Никифоров Александр Иванович</string>
+    <string name="authorBtn">Author</string>
+</resources>
